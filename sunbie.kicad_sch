@@ -3284,7 +3284,7 @@
 	)
 	(rectangle
 		(start 181.61 86.36)
-		(end 228.6 128.27)
+		(end 217.17 128.27)
 		(stroke
 			(width 0)
 			(type default)
@@ -3374,7 +3374,7 @@
 	)
 	(text "Buzzer"
 		(exclude_from_sim no)
-		(at 224.79 127 0)
+		(at 213.36 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4922,7 +4922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 91.44 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5316,7 +5316,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 245.11 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5551,7 +5551,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD"
+		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-ESP32-C3-SMD"
 			(at 144.272 71.374 0)
 			(hide yes)
 			(show_name no)
@@ -5775,7 +5775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 245.11 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5809,7 +5809,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "381a1e6c-0774-4711-893c-5ac8ba5b6003")
+			(uuid "381a1e6c-0774-4711-893c-5ac8ba5b6004")
 		)
 		(instances
 			(project "sunbie"
@@ -5852,7 +5852,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 91.44 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6010,7 +6010,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 74.93 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6409,7 +6409,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 91.44 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6491,7 +6491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 259.08 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6525,7 +6525,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "381a1e6c-0774-4711-893c-5ac8ba5b6003")
+			(uuid "381a1e6c-0774-4711-893c-5ac8ba5b6005")
 		)
 		(instances
 			(project "sunbie"
@@ -6646,7 +6646,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 109.22 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6838,7 +6838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 259.08 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6872,7 +6872,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "381a1e6c-0774-4711-893c-5ac8ba5b6003")
+			(uuid "381a1e6c-0774-4711-893c-5ac8ba5b6006")
 		)
 		(instances
 			(project "sunbie"
@@ -7483,7 +7483,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 137.922 50.8 90)
 			(hide yes)
 			(show_name no)
@@ -7565,7 +7565,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 146.812 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -7599,10 +7599,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "4c11ae92-52f7-49e5-9bb3-02ebc7331666")
+			(uuid "4c11ae92-52f7-49e5-9bb3-02ebc7331667")
 		)
 		(pin "2"
-			(uuid "7f525de1-c8d5-40e1-be72-ce84c511687c")
+			(uuid "7f525de1-c8d5-40e1-be72-ce84c511687d")
 		)
 		(instances
 			(project "sunbie"
@@ -8231,7 +8231,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:Display_128x64_096_I2C"
 			(at 240.03 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -8653,7 +8653,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buzzer_Beeper:Buzzer_Murata_PKLCS1212E"
 			(at 203.835 99.06 90)
 			(hide yes)
 			(show_name no)
