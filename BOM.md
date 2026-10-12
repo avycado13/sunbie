@@ -22,7 +22,7 @@
 | [kinghelm KH-6X6X5H-TJ](https://www.lcsc.com/product-detail/C2837515.html) | 6mm Push Buttons for User Control | 1 | $0.02 | $0.02 | [LCSC](https://www.lcsc.com/product-detail/C2837515.html) |
 | [Display](https://www.amazon.com/dp/B0GBWXTR1Z?) | Display for showing animations and details | 1 | $5.99 | $5.99 | [Amazon](https://www.amazon.com/dp/B0GBWXTR1Z?) |
 | **Parts subtotal** | — | — | — | **$24.91** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$24.91** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$29.91** | — |
 
-$5.09 left of the tier's funding.
+$0.09 left of the tier's funding.
